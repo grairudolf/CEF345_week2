@@ -1,0 +1,16 @@
+*{
+    font-family: agency FB;
+    font-size: 20px;
+}
+.container{
+    border: 2px black solid;
+    width: 250px;
+    height: auto;
+    margin: 2px;
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+}
+.container h2{
+    text-align: center;
+}
